@@ -10,10 +10,10 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [ ] The introduction section explains the background of the company and how many games remain unfunded. Complete
+* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games. Complete
+* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding. Complete
+* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games. Complete
 
 The following **optional** features are implemented:
 
@@ -39,7 +39,7 @@ Refreshing my knowledge of the basics was the biggest piece
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Inzwirashe Zunga
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
